@@ -1,4 +1,6 @@
 Licorice
 ========
 
-Blender Theme
+A dark Blender Theme with candy colored fillings.
+
+
