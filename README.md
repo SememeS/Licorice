@@ -1,7 +1,7 @@
 Licorice
 ========
 
-Blender Theme
+Blender 2.70 Theme
 
 <img src="http://i.imgur.com/dyalZxR.png" />
 <img src="http://i.imgur.com/0A2g2Zb.png" />
